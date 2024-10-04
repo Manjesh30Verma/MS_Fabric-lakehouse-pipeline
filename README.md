@@ -25,7 +25,6 @@ Load your Lakehouse data into the notebook by connecting PySpark to the Lakehous
 Use Spark’s built-in data access libraries to connect to your Lakehouse.
 Example code to connect and explore the data:
 
-![Screenshot from 2024-10-04 15-03-29](https://github.com/user-attachments/assets/69151f11-3060-47a2-8f57-7d897cfa8a95)
 
 ![Screenshot from 2024-10-04 15-03-29](https://github.com/user-attachments/assets/2c618c00-3a04-4874-84a3-81a79c084995)
 
