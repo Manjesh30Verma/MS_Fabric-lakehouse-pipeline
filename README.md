@@ -28,6 +28,8 @@ Example code to connect and explore the data:
 
 ![Screenshot from 2024-10-04 15-03-29](https://github.com/user-attachments/assets/2c618c00-3a04-4874-84a3-81a79c084995)
 
+![Screenshot from 2024-10-04 15-03-43](https://github.com/user-attachments/assets/610d01ad-7eb5-4a95-82fd-103d9db3035c)
+
 ![image](https://github.com/user-attachments/assets/2b2662d7-1212-4d14-bf54-3e05b7d5f7b0)
 
 ![image](https://github.com/user-attachments/assets/c047cc52-53f5-4a2a-963c-ac839db7c3e0)
